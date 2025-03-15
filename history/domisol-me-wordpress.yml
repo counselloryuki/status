@@ -1,7 +1,7 @@
 url: https://domisol.me/main
-status: up
-code: 200
-responseTime: 155
-lastUpdated: 2025-03-14T23:12:07.873Z
+status: down
+code: 500
+responseTime: 104
+lastUpdated: 2025-03-15T16:17:44.816Z
 startTime: 2025-03-09T03:10:27.497Z
 generator: Upptime <https://github.com/upptime/upptime>
