@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/domisol.me.ico",
     "slug": "domisol-me",
     "status": "up",
-    "uptime": "89.18%",
+    "uptime": "89.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.26%",
-    "uptimeMonth": "97.01%",
+    "uptimeMonth": "97.84%",
     "uptimeYear": "88.34%",
-    "time": 1189,
-    "timeDay": 481,
-    "timeWeek": 516,
-    "timeMonth": 1046,
-    "timeYear": 1224,
+    "time": 1188,
+    "timeDay": 574,
+    "timeWeek": 531,
+    "timeMonth": 1055,
+    "timeYear": 1223,
     "dailyMinutesDown": {
       "2026-04-02": 175,
       "2026-03-31": 457,
@@ -101,8 +101,7 @@
       "2025-11-02": 420,
       "2025-08-08": 878,
       "2025-08-07": 884,
-      "2025-06-25": 151,
-      "2025-04-09": 37
+      "2025-06-25": 151
     }
   },
   {
@@ -111,14 +110,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/domisol.me.ico",
     "slug": "domisol-me-wordpress",
     "status": "up",
-    "uptime": "89.72%",
+    "uptime": "89.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.38%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "88.93%",
     "time": 330,
-    "timeDay": 204,
-    "timeWeek": 234,
+    "timeDay": 276,
+    "timeWeek": 240,
     "timeMonth": 343,
     "timeYear": 336,
     "dailyMinutesDown": {
@@ -176,8 +175,7 @@
       "2025-11-02": 420,
       "2025-08-08": 878,
       "2025-08-07": 883,
-      "2025-06-25": 47,
-      "2025-04-09": 37
+      "2025-06-25": 47
     }
   }
 ]
