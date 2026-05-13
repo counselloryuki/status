@@ -5,8 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: Domisol.me
     url: https://domisol.me
-  - name: Domisol.me Wordpress
+  - name: Domisol.me Wordpress Music
     url: https://domisol.me/main
+  - name: Domisol.me Wordpress Counseling
+    url: https://domisol.me/counselor
 assignees:
   - xjlin0
 
