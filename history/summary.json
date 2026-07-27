@@ -13,7 +13,7 @@
     "time": 1129,
     "timeDay": 1051,
     "timeWeek": 894,
-    "timeMonth": 850,
+    "timeMonth": 842,
     "timeYear": 1244,
     "dailyMinutesDown": {
       "2025-08-08": 878,
@@ -124,7 +124,7 @@
     "time": 669,
     "timeDay": 986,
     "timeWeek": 663,
-    "timeMonth": 689,
+    "timeMonth": 684,
     "timeYear": 669,
     "dailyMinutesDown": {
       "2026-07-14": 202
@@ -136,18 +136,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/domisol.me.ico",
     "slug": "domisol-me-wordpress-counseling",
     "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.68%",
+    "uptimeDay": "89.60%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.68%",
     "time": 1653,
     "timeDay": 439,
     "timeWeek": 2244,
-    "timeMonth": 1977,
+    "timeMonth": 2008,
     "timeYear": 1653,
     "dailyMinutesDown": {
-      "2026-07-14": 197
+      "2026-07-14": 197,
+      "2026-07-27": 144,
+      "2026-07-26": 6
     }
   }
 ]
